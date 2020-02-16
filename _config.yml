@@ -8,7 +8,7 @@ description: |
   Creativepreneur in Houston, TX<br>
 owner: Desi M. Slaughter # or company name
 first_published: 2012 # if migrating another site, the year of your first publish
-email: desi@desimslaughter.com
+email: hi@desimslaughter.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://desimslaughter.com" # the base hostname & protocol for your site
 social:
@@ -17,11 +17,11 @@ social:
   linkedin-square: https://linkedin.com/in/desireemslaughter
   instagram: https://instagram.com/desimslaughter
   tumblr-square: https://desimslaughter.tumblr.com
+  youtube-square: https://www.youtube.com/desimslaughter
   github: https://github.com/desimslaughter
   google-plus-square: https://plus.google.com/u/0/+DesireeDesiSlaughter
   email: /contact/
   #flickr:
-  #youtube-square:
   #spotify:
   #stack-overflow:
   #vimeo:
